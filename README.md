@@ -93,8 +93,9 @@ This is my first project using SwiftData. While this implementation explores onl
     <td align="center"><b>Saved List</b></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/d460a172-a532-4ca5-b076-021fb4567c9b" width="302"/></td>
+    <td><img src="https://github.com/user-attachments/assets/5f073e5c-c921-4607-abe5-e435fb20e149" width="302"/></td>
     <td><img src="https://github.com/user-attachments/assets/a184067b-473d-4549-9d0f-50227b7411a2" width="302"/></td>
-    <td><img src="https://github.com/user-attachments/assets/c35e7307-6a44-4e5c-a59b-1f116ed66dfd" width="302"/></td>
+    <td><img src="https://github.com/user-attachments/assets/1835a5ab-c758-493b-a5c7-ac82ee410af8" width="302"/></td>
   </tr>
 </table>
+
