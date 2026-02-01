@@ -67,6 +67,14 @@ Adds indirection, but improves scalability and testability.
 
 ---
 
+## Search Feature
+
+- Real time search using REST API
+- Asynchronous and Debounced Search
+- Cancellation Support
+
+---
+
 ## Testing Readiness
 
 - Mock repositories
@@ -75,12 +83,6 @@ Adds indirection, but improves scalability and testability.
 ---
 
 
-## Known Issue - Search & SwiftUI Limitations
-
-- `.searchable` does not reliably dismiss in `TabView`
-- Explicit dismissal using tab selection observation
-
----
 
 This is my first project using SwiftData. While this implementation explores only a subset of its features, I plan to continue exploring SwiftData in greater depth in future projects.
 
